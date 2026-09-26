@@ -1,0 +1,20 @@
+{
+  "title": "Snake",
+  "tagline": "Fais grandir le serpent en évitant les murs et ta propre queue.",
+  "tapToPlay": "Touchez pour jouer",
+  "score": "Score",
+  "best": "Record",
+  "over": "Partie terminée",
+  "newRecord": "Nouveau record !",
+  "retry": "Rejouer",
+  "paused": "En pause",
+  "tapToResume": "Touchez pour reprendre",
+  "hintKeys": "Utilisez les flèches ou WASD pour tourner",
+  "hintTouch": "Glissez pour faire tourner le serpent",
+  "share": "Partager",
+  "shareText": "J’ai fait {score} points à Snake sur RoqueOS ! 🐍 Tu peux faire mieux ?",
+  "shareSaved": "Image du record enregistrée ! Partage-la avec tes amis.",
+  "soundOn": "Son activé",
+  "soundOff": "Son désactivé",
+  "operationFailed": "Impossible de terminer l'opération. Veuillez réessayer."
+}

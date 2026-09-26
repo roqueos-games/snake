@@ -1,0 +1,20 @@
+{
+  "title": "Snake",
+  "tagline": "Grow the snake, dodge the walls and your own tail.",
+  "tapToPlay": "Tap to play",
+  "score": "Score",
+  "best": "Best",
+  "over": "Game over",
+  "newRecord": "New record!",
+  "retry": "Play again",
+  "paused": "Paused",
+  "tapToResume": "Tap to resume",
+  "hintKeys": "Use the arrows or WASD to turn",
+  "hintTouch": "Swipe to turn the snake",
+  "share": "Share",
+  "shareText": "I scored {score} in Snake on RoqueOS! 🐍 Can you beat it?",
+  "shareSaved": "Record image saved! Share it with your friends.",
+  "soundOn": "Sound on",
+  "soundOff": "Sound off",
+  "operationFailed": "Could not complete the operation. Please try again."
+}

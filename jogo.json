@@ -1,0 +1,58 @@
+{
+  "id": "snake",
+  "slug": "snake",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "Snake",
+    "en-US": "Snake",
+    "es-ES": "Snake",
+    "fr-FR": "Snake",
+    "de-DE": "Snake",
+    "ja-JP": "Snake",
+    "zh-CN": "Snake",
+    "hi-IN": "Snake",
+    "ru-RU": "Snake",
+    "ar-AR": "Snake"
+  },
+  "descricao": {
+    "pt-BR": "Cresça a cobra neon comendo, sem bater nas paredes ou na cauda.",
+    "en-US": "Grow the neon snake by eating, don't hit the walls or your tail.",
+    "es-ES": "Haz crecer la serpiente neón comiendo, sin chocar con las paredes ni con tu cola.",
+    "fr-FR": "Fais grandir le serpent néon en mangeant, sans toucher les murs ni ta queue.",
+    "de-DE": "Lass die Neon-Schlange durch Fressen wachsen, ohne Wände oder den eigenen Schwanz zu treffen.",
+    "ja-JP": "ネオンのヘビを餌で伸ばそう。壁や自分の尾に当たらないように。",
+    "zh-CN": "通过进食让霓虹蛇变长，别撞到墙壁，也别咬到自己的尾巴。",
+    "hi-IN": "खाकर नियॉन साँप को बढ़ाएँ, दीवारों या अपनी पूँछ से न टकराएँ।",
+    "ru-RU": "Наращивайте неоновую змейку, поедая еду и не задевая стены или свой хвост.",
+    "ar-AR": "كبِّر الأفعى النيونية بالأكل دون أن تصطدم بالجدران أو ذيلها."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Jogo da cobrinha grátis no navegador, em neon: coma, cresça e não bata na parede nem na própria cauda.",
+      "sobre": "O clássico da cobrinha com acabamento neon e a curva de dificuldade que ele sempre teve: cada mordida deixa você mais longo, e o que mata no fim é o próprio corpo. Guarda o recorde da máquina.",
+      "comoJogar": "Setas ou WASD para virar; no celular, deslize. Não existe pausa no meio da curva."
+    },
+    "en-US": {
+      "resumo": "Free snake game in your browser, in neon: eat, grow, and stay off the walls and your own tail.",
+      "sobre": "The snake classic with a neon finish and the difficulty curve it always had: every bite makes you longer, and what kills you in the end is your own body. Keeps the machine high score.",
+      "comoJogar": "Arrows or WASD to turn; swipe on mobile. There is no pausing mid-turn."
+    }
+  },
+  "etiquetas": ["Arcade", "Classic", "Reflex"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(34, 197, 94, 0.5)",
+  "janela": {
+    "largura": 520,
+    "altura": 680,
+    "minLargura": 340,
+    "minAltura": 480
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": true,
+  "recorde": {
+    "chave": "best",
+    "maiorEMelhor": true
+  },
+  "capacidades": []
+}

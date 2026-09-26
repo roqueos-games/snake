@@ -1,0 +1,20 @@
+{
+  "title": "Snake",
+  "tagline": "Lass die Schlange wachsen und weiche Wänden und dem eigenen Schwanz aus.",
+  "tapToPlay": "Zum Spielen tippen",
+  "score": "Punkte",
+  "best": "Rekord",
+  "over": "Spiel vorbei",
+  "newRecord": "Neuer Rekord!",
+  "retry": "Nochmal spielen",
+  "paused": "Pausiert",
+  "tapToResume": "Zum Fortsetzen tippen",
+  "hintKeys": "Mit Pfeiltasten oder WASD lenken",
+  "hintTouch": "Wische, um die Schlange zu lenken",
+  "share": "Teilen",
+  "shareText": "Ich habe {score} Punkte bei Snake auf RoqueOS erreicht! 🐍 Schaffst du mehr?",
+  "shareSaved": "Rekord-Bild gespeichert! Teile es mit deinen Freunden.",
+  "soundOn": "Ton an",
+  "soundOff": "Ton aus",
+  "operationFailed": "Vorgang konnte nicht abgeschlossen werden. Bitte erneut versuchen."
+}

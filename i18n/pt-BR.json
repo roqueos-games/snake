@@ -1,0 +1,20 @@
+{
+  "title": "Snake",
+  "tagline": "Cresça a cobra, evite as paredes e a própria cauda.",
+  "tapToPlay": "Toque para jogar",
+  "score": "Pontos",
+  "best": "Recorde",
+  "over": "Fim de jogo",
+  "newRecord": "Novo recorde!",
+  "retry": "Jogar de novo",
+  "paused": "Pausado",
+  "tapToResume": "Toque para continuar",
+  "hintKeys": "Use as setas ou WASD para virar",
+  "hintTouch": "Deslize para virar a cobra",
+  "share": "Compartilhar",
+  "shareText": "Fiz {score} pontos no Snake do RoqueOS! 🐍 Consegue mais?",
+  "shareSaved": "Imagem do recorde salva! Compartilhe com os amigos.",
+  "soundOn": "Som ligado",
+  "soundOff": "Som desligado",
+  "operationFailed": "Não foi possível concluir a operação. Tente novamente."
+}

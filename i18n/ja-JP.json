@@ -1,0 +1,20 @@
+{
+  "title": "Snake",
+  "tagline": "ヘビを伸ばし、壁と自分の尾を避けろ。",
+  "tapToPlay": "タップでプレイ",
+  "score": "スコア",
+  "best": "ベスト",
+  "over": "ゲームオーバー",
+  "newRecord": "新記録！",
+  "retry": "もう一度",
+  "paused": "一時停止",
+  "tapToResume": "タップで再開",
+  "hintKeys": "矢印キーまたはWASDで曲がる",
+  "hintTouch": "スワイプでヘビを曲げる",
+  "share": "シェア",
+  "shareText": "RoqueOSのSnakeで{score}点を獲得！🐍 これを超えられる？",
+  "shareSaved": "記録画像を保存しました！友達にシェアしよう。",
+  "soundOn": "サウンドON",
+  "soundOff": "サウンドOFF",
+  "operationFailed": "操作を完了できませんでした。もう一度お試しください。"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Snake",
+  "tagline": "让蛇不断变长，躲开墙壁和自己的尾巴。",
+  "tapToPlay": "点击开始",
+  "score": "得分",
+  "best": "最佳",
+  "over": "游戏结束",
+  "newRecord": "新纪录！",
+  "retry": "再玩一次",
+  "paused": "已暂停",
+  "tapToResume": "点击继续",
+  "hintKeys": "用方向键或 WASD 转向",
+  "hintTouch": "滑动来控制蛇转向",
+  "share": "分享",
+  "shareText": "我在 RoqueOS 的 Snake 里得了 {score} 分！🐍 你能超过吗？",
+  "shareSaved": "纪录图片已保存！分享给朋友吧。",
+  "soundOn": "声音开",
+  "soundOff": "声音关",
+  "operationFailed": "无法完成此操作，请重试。"
+}
